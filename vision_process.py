@@ -2,7 +2,6 @@
 
 import torch # need torch to work
 import torchvision
-
 import base64, copy, logging, math
 import os, sys, time, requests, warnings
 from functools import lru_cache
