@@ -1,5 +1,6 @@
+# qwen_vl_utils; for qwen, holo, etc.
 
-import torch
+import torch # need torch to work
 import torchvision
 
 import base64, copy, logging, math
